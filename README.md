@@ -16,7 +16,10 @@
 
 - Determinar en donde los elementos deben de empezar y terminar.
 
-- Metodologia BEM (Bloques independientes para crear componentes escalables y reutilizables)
+- Metodologia BEM (Bloques independientes para crear componentes escalables y reutilizables).
+
+- Responsive aplicando Media Queries.
+
 
 ### Links
 
