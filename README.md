@@ -1,6 +1,6 @@
-### Arquitectura CSS:
+### Arquitectura CSS (Front End):
 
-- En este proyecto con Alura Latam desarrollamos una tienda de videojuegos en CSS:
+- En este proyecto con Alura Latam desarrollamos una tienda de Aplicaciones y Videojuegos en CSS:
 
 #### Puntos desarrollados:
 
