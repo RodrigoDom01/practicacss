@@ -1,22 +1,26 @@
-### Arquitectura CSS (Front End):
+### CSS Grid: Simplificando Layouts - curso Alura Latam 2022-2023
 
-- En este proyecto con Alura Latam desarrollamos una tienda de Aplicaciones y Videojuegos en CSS:
+**En este proyecto desarrollamos una tienda de Aplicaciones y Videojuegos en CSS:**
 
-#### Puntos desarrollados:
+#### Puntos desarrollados :
 
-- Simplificar la organizacion de los archivos CSS
+- Simplificar la creación de layouts complejos.
 
-- Crear arquitecturas simples y robustas
+- Posicionamiento de elementos con mayor facilidad.
 
-- Aprender de las buenas practicas y metodologias del CSS
+- Utilizar grid para calcular y alinear elementos.
 
-- Pagina responsiva
- 
+- Crear templates con más eficiencia y simplicidad.
+
+- Alineamiento de los elementos en donde tienen que posicionarse.
+
+- Determinar en donde los elementos deben de empezar y terminar.
+
 - Metodologia BEM (Bloques independientes para crear componentes escalables y reutilizables)
 
+### Links
 
 
-### Links proyecto
 
 
 
@@ -25,12 +29,9 @@
 
 
 
-
-
 # Editor.md
 
 ![](https://pandao.github.io/editor.md/images/logos/editormd-logo-180x180.png)
-
 
 
 
